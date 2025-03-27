@@ -1,0 +1,14 @@
+streamlit
+fastapi
+uvicorn
+python-dotenv
+sqlalchemy
+openai
+langchain
+langchain-openai
+PyMuPDF
+python-docx
+pillow
+tesseract
+pytesseract
+
